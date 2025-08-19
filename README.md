@@ -205,6 +205,8 @@ Arguments are divided into three categories:
 
 For complete usage instructions, please refer to the [Usage Documentation](docs/en/usage.md).
 
+For a module-by-module API reference with examples, see the [API Reference](docs/en/api/README.md).
+
 ## Developer Guide
 
   - **Contributions are welcome\!** If you have suggestions for new features, performance tuning, or feedback on user experience, feel free to submit an Issue or PR 😊
